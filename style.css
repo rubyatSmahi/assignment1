@@ -18,8 +18,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     background-color: #ffffff;
-    padding-left: 120px;
-    padding-right: 120px;
+    padding: 12px 80px;
 }
 
 .menu,
@@ -66,7 +65,7 @@ ul{
 }
 
 #hero{
-    background-image:url(/iconss/hero-bg.png);
+    background-image:url(/hero-bg.png);
     background-size: cover;
     background-position: center;
     align-items: center;
